@@ -1,0 +1,1 @@
+This batch file outputs simple matrix that consists of the characters that you pre-selected
